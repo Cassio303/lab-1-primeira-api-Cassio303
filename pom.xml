@@ -14,7 +14,7 @@
     <name>lab1v1</name>
     <description>lab1v1</description>
     <properties>
-        <java.version>20</java.version>
+        <java.version>18</java.version>
     </properties>
     <dependencies>
         <dependency>
